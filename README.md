@@ -1,0 +1,1 @@
+# rate-limit-algo-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 rate_limit_algo.py\n```\n
